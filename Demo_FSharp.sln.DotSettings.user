@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4cb23747_002D5181_002D44cb_002D87c8_002D19390dddd734/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DatabaseTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FADCBF33-4DF0-4ACE-B5FD-0330A74E5C6B::net8.0::Demo_FSharp.Tests.DatabaseTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4f82ef11_002D9c4b_002D4cb6_002D9537_002D708571a792cf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DatabaseTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FADCBF33-4DF0-4ACE-B5FD-0330A74E5C6B::net8.0::Demo_FSharp.Tests.DatabaseTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6874f8eb_002Df09c_002D4023_002Db45d_002Db1d6576ace6b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DatabaseTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FADCBF33-4DF0-4ACE-B5FD-0330A74E5C6B::net8.0::Demo_FSharp.Tests.DatabaseTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FADCBF33-4DF0-4ACE-B5FD-0330A74E5C6B::net8.0::Demo_FSharp.Tests.PersonTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eb5eed50_002D8d94_002D4e2c_002Db493_002Dd2726f04af43/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DatabaseTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FADCBF33-4DF0-4ACE-B5FD-0330A74E5C6B::net8.0::Demo_FSharp.Tests.DatabaseTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
