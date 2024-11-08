@@ -11,7 +11,7 @@ type PersonTests() =
         // Arrange: Create a new Person object with specific values for Name, Age, and City
         let person = Person("Jane Doe", 25, "Berlin")
 
-        // Act: The constructor initializes the properties (this is done in the creation step)
+        // Act: The constructor initializes the properties (in the creation step)
 
         // Assert: Verify that the person's properties are correctly initialized
         Assert.Equal("Jane Doe", person.Name) // Verify that the Name property is set correctly

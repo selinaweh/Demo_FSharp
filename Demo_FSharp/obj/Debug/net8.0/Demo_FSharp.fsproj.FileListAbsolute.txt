@@ -27,3 +27,4 @@ C:\Users\Weh\RiderProjects\Demo_FSharp\Demo_FSharp\obj\Debug\net8.0\refint\Demo_
 C:\Users\Weh\RiderProjects\Demo_FSharp\Demo_FSharp\obj\Debug\net8.0\Demo_FSharp.pdb
 C:\Users\Weh\RiderProjects\Demo_FSharp\Demo_FSharp\obj\Debug\net8.0\Demo_FSharp.genruntimeconfig.cache
 C:\Users\Weh\RiderProjects\Demo_FSharp\Demo_FSharp\obj\Debug\net8.0\ref\Demo_FSharp.dll
+C:\Users\Weh\RiderProjects\Demo_FSharp\Demo_FSharp\obj\Debug\net8.0\Demo_FSharp.sourcelink.json

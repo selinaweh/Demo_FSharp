@@ -116,3 +116,4 @@ C:\Users\Weh\RiderProjects\Demo_FSharp\Demo_FSharp.Tests\obj\Debug\net8.0\refint
 C:\Users\Weh\RiderProjects\Demo_FSharp\Demo_FSharp.Tests\obj\Debug\net8.0\Demo_FSharp.Tests.pdb
 C:\Users\Weh\RiderProjects\Demo_FSharp\Demo_FSharp.Tests\obj\Debug\net8.0\Demo_FSharp.Tests.genruntimeconfig.cache
 C:\Users\Weh\RiderProjects\Demo_FSharp\Demo_FSharp.Tests\obj\Debug\net8.0\ref\Demo_FSharp.Tests.dll
+C:\Users\Weh\RiderProjects\Demo_FSharp\Demo_FSharp.Tests\obj\Debug\net8.0\Demo_FSharp.Tests.sourcelink.json
