@@ -4,9 +4,7 @@ namespace Demo_FSharp
 open System
 open System.IO
 open System.Collections.Generic
-open System.Threading.Tasks
-open System.Linq
-open Demo_FSharp.Person // Importieren des Person-Moduls
+open Demo_FSharp.Person
 
 module Database =
 

@@ -2,9 +2,6 @@
 namespace Demo_FSharp
 
 open System
-open System.Threading.Tasks
-open Demo_FSharp.Database
-open Demo_FSharp.Person
 
 module Program =
 
