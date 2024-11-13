@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aP5sEdpUHP8=",
+  "dgSpecHash": "1nrGdx7CGdM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Weh\\RiderProjects\\Demo_FSharp\\Demo_FSharp.Tests\\Demo_FSharp.Tests.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Weh\\.nuget\\packages\\fsharp.core\\8.0.401\\fsharp.core.8.0.401.nupkg.sha512",
+    "C:\\Users\\Weh\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512",
     "C:\\Users\\Weh\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",
     "C:\\Users\\Weh\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\microsoft.net.test.sdk.17.11.1.nupkg.sha512",
     "C:\\Users\\Weh\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.1\\microsoft.testplatform.objectmodel.17.11.1.nupkg.sha512",

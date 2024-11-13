@@ -3,17 +3,19 @@
 open Xunit
 open Demo_FSharp.Person
 
+
 type PersonTests() =
 
-    // Test for the constructor of the Person class to ensure it initializes properties correctly
+    // Test for the creation of the Person record
     [<Fact>]
     member this.``Constructor_ShouldInitializeProperties`` () =
-        // Arrange: Create a new Person object with specific values for Name, Age, and City
-        let person = Person("Jane Doe", 25, "Berlin")
+        // Arrange: Create a new Person record
+        let person = { Name = "Jane Doe"; Age = 25; City = "Berlin" }
 
-        // Act: The constructor initializes the properties (in the creation step)
+        // Act: Record initialization happens in the creation step, no explicit constructor
 
-        // Assert: Verify that the person's properties are correctly initialized
-        Assert.Equal("Jane Doe", person.Name) // Verify that the Name property is set correctly
-        Assert.Equal(25, person.Age) // Verify that the Age property is set correctly
-        Assert.Equal("Berlin", person.City) // Verify that the City property is set correctly
+        // Assert: Verify the person's properties
+        Assert.Equal("Jane Doe", person.Name)
+        Assert.Equal(25, person.Age)
+        Assert.Equal("Berlin", person.City)
+

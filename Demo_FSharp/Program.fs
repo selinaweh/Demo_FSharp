@@ -2,6 +2,7 @@
 namespace Demo_FSharp
 
 open System
+open Demo_FSharp.Person
 
 module Program =
 
@@ -41,7 +42,7 @@ module Program =
                     let city = Console.ReadLine()
                     if String.IsNullOrEmpty(city) then raise (Exception("City cannot be empty."))
 
-                    let person = Person.Person(name, age, city)
+                    let person = { Name = name; Age = age; City = city }
                     db.AddPerson(person)
                 with
                 | ex -> Console.WriteLine($"Error: {ex.Message}")
@@ -85,8 +86,8 @@ module Program =
 
     // Main async method to initialize the database and start the main loop
     let MainAsync() = task {
-        let db = Database.Database() // Initialize the database
-        do! MainLoop(db) // Start the main loop for user interaction
+        let db = Database.Database()
+        do! MainLoop(db)
     }
 
     // Entry point of the program
